@@ -1,4 +1,4 @@
-# Sudo-1.8.27
+# Privilege Escalation in Sudo-1.8.27
 
 ## What's sudo?
 
